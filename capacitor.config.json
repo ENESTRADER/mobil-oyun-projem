@@ -1,0 +1,14 @@
+{{
+  "appId": "com.roblox.pro",
+  "appName": "Roblox Pro E41",
+  "webDir": "www",
+  "server": {
+    "url": "https://commercial-peach-ua6lkjjcky.edgeone.app/",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
